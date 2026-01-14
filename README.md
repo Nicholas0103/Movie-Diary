@@ -1,16 +1,28 @@
-# movie_diary
+# Movie Diary App
 
-A new Flutter project.
+A mobile application built with Flutter that allows users to track movies they have watched, manage a personal watchlist, and explore movie information using the TMDB API.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Description
 
-A few resources to get you started if this is your first Flutter project:
+Movie Diary is a personal movie tracker designed for students and casual movie watchers.  
+Users can browse movies, view details, and save movies into their own list for future reference.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project is developed as a final diploma project.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Features
+
+- Browse popular, top-rated, upcoming and now-playing movies
+- View detailed movie information (title, overview, rating, poster)
+- Add movies to personal watchlist
+- Simple and clean user interface
+- Firebase authentication (login & sign up)
+
+---
+
+## 🖼 Screenshots
+
+> (Loading...)
