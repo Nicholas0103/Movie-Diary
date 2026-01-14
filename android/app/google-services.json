@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1008858918563",
+    "project_id": "movie-diary-7a7c3",
+    "storage_bucket": "movie-diary-7a7c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008858918563:android:664f0ef51d04706e2e5916",
+        "android_client_info": {
+          "package_name": "com.example.movie_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008858918563-mfcdj60q4g0utidt8st3k529gurm631d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movie_diary",
+            "certificate_hash": "24c9b3c215367b83b0c60b0452d45662820e9fbc"
+          }
+        },
+        {
+          "client_id": "1008858918563-rdlft9giu2t2pm59qd7rbtgse3egqtgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhxh7jBoRO5jXcdJflgHtdQGpu2w_3b-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008858918563-rdlft9giu2t2pm59qd7rbtgse3egqtgc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1008858918563-vkvrnsactrq6l83o9oj2qanke11dntjv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.movieDiary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
