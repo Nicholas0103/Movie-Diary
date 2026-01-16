@@ -25,4 +25,5 @@ This project is developed as a final diploma project.
 
 ## 🖼 Screenshots
 
-> (Loading...)
+![Screenshots](assets/GitHub.png)
+
